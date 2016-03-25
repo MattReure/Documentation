@@ -12,7 +12,6 @@ http://fablabo.net/wiki/WorkshopDocumentation
 http://fablabo.net/wiki/Fichier:FabLabDocumentationMAP.mm
 
 ##FABDOC
-http://web.media.mit.edu/~labrune/fabdoc/visualrss/
 http://fablabo.net/wiki/Essai_de_visualisation
 
 ##PUBLICLAB
